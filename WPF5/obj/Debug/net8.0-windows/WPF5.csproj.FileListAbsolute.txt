@@ -1,0 +1,700 @@
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\WPF5.exe
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\WPF5.deps.json
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\WPF5.runtimeconfig.json
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\WPF5.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\WPF5.pdb
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Humanizer.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.AssemblyReference.cache
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\App.g.cs
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.cache
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.lref
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.g.resources
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfoInputs.cache
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfo.cs
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CoreCompileInputs.cache
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CopyComplete
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\refint\WPF5.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.pdb
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5.genruntimeconfig.cache
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\ref\WPF5.dll
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\App.baml
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\WPF5_Content.g.cs
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\Windows\ProductWindow.g.cs
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\Windows\ProductWindow.baml
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\Converter\ProductsWindow.g.cs
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\Windows\AllProductsWindow.g.cs
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\Windows\AddProductWindow.g.cs
+F:\Praktika 02.01\prakt5\Новая папка\WPF5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.AssemblyReference.cache
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5_Content.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.cache
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.lref
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\E112C6.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\K839K3.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\L293S9.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\M112C8.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\M294G9.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\M398S9.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\N283K3.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\nophoto.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\S384K2.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Images\T238C7.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\WPF5.exe
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\WPF5.deps.json
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\WPF5.runtimeconfig.json
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\WPF5.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\WPF5.pdb
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\Windows\ProductsWindow.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\App.baml
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\Windows\ProductsWindow.baml
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.g.resources
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfoInputs.cache
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfo.cs
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CoreCompileInputs.cache
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CopyComplete
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\refint\WPF5.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.pdb
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\WPF5.genruntimeconfig.cache
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\ref\WPF5.dll
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\Windows\AddProductWindow.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\WPF5\obj\Debug\net8.0-windows\Windows\AddProductWindow.baml
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\E112C6.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\K839K3.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\L293S9.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\M112C8.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\M294G9.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\M398S9.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\N283K3.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\nophoto.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\S384K2.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Images\T238C7.jpg
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.exe
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.deps.json
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.runtimeconfig.json
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.pdb
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Humanizer.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Praktika 02.01\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.AssemblyReference.cache
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\AddProductWindow.g.cs
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\ProductsWindow.g.cs
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\App.g.cs
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5_Content.g.cs
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.cache
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.lref
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\App.baml
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\AddProductWindow.baml
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\ProductsWindow.baml
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.g.resources
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfoInputs.cache
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfo.cs
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CoreCompileInputs.cache
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CopyComplete
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.dll
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\refint\WPF5.dll
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.pdb
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.genruntimeconfig.cache
+F:\Praktika 02.01\prakt5\WPF5\obj\Debug\net8.0-windows\ref\WPF5.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\E112C6.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\K839K3.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\L293S9.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\M112C8.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\M294G9.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\M398S9.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\N283K3.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\nophoto.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\S384K2.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Images\T238C7.jpg
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.exe
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.deps.json
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.runtimeconfig.json
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\WPF5.pdb
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Humanizer.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.AssemblyReference.cache
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\AddProductWindow.g.cs
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\ProductsWindow.g.cs
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\App.g.cs
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5_Content.g.cs
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.cache
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.lref
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\App.baml
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\AddProductWindow.baml
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\Windows\ProductsWindow.baml
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.g.resources
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.GeneratedMSBuildEditorConfig.editorconfig
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfoInputs.cache
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfo.cs
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CoreCompileInputs.cache
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CopyComplete
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\refint\WPF5.dll
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.pdb
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\WPF5.genruntimeconfig.cache
+F:\1 semestr\Praktika_csharp\prakt5\WPF5\obj\Debug\net8.0-windows\ref\WPF5.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\E112C6.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\K839K3.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\L293S9.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\M112C8.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\M294G9.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\M398S9.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\N283K3.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\nophoto.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\S384K2.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Images\T238C7.jpg
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\WPF5.exe
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\WPF5.deps.json
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\WPF5.runtimeconfig.json
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\WPF5.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\WPF5.pdb
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.AssemblyReference.cache
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\Windows\AddProductWindow.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\Windows\ProductsWindow.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5_Content.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.cache
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5_MarkupCompile.lref
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\App.baml
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\Windows\AddProductWindow.baml
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\Windows\ProductsWindow.baml
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.g.resources
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfoInputs.cache
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.AssemblyInfo.cs
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CoreCompileInputs.cache
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.csproj.CopyComplete
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\refint\WPF5.dll
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.pdb
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\WPF5.genruntimeconfig.cache
+C:\Users\aalin\OneDrive\Рабочий стол\git_\WPF5\obj\Debug\net8.0-windows\ref\WPF5.dll

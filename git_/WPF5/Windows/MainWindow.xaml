@@ -1,0 +1,36 @@
+﻿<Window x:Class="WPF5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF5"
+        mc:Ignorable="d"
+               WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Авторизация" Height="600" Width="400">
+    <Grid VerticalAlignment="Center" Margin="10 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="180" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Image Source="./../Images/logo.png" Width="180" Height="180" />
+        <StackPanel  Grid.Row="1">
+            <Label Content="Имя пользователя" />
+            <TextBox Name="loginInput"/>
+            <Label Content="Пароль" />
+            <TextBox Name="textBox_passwordOutput" Visibility="Collapsed"/>
+            <PasswordBox Name="passwordBox_passwordInput"/>
+            <CheckBox Margin="5" Content="Показать пароль" Name="showPasswordCheckbox" Checked="ShowPassword_Checked" Unchecked="ShowPassword_Unchecked"/>
+            <StackPanel Margin="0 10 0 25" x:Name="captchaContainer" Visibility="Hidden">
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <TextBlock Text="" x:Name="captchaFirstBlock" TextDecorations="Strikethrough" Margin="0 5 10 0" />
+                    <TextBlock Text="" x:Name="captchaSecondBlock" TextDecorations="Strikethrough" />
+                </StackPanel>
+                <TextBlock Text="Введите текст с картинки:" />
+                <TextBox Name="captchaInput"/>
+            </StackPanel>
+            <Button Content="Вход в систему" IsDefault="True" x:Name="buttonLogin" Click="buttonLogin_Click"/>
+            <Button Content="Войти как гость" Click="buttonLoginGuest_Click" IsDefault="True" Margin="0 10 0 0" x:Name="buttonLoginGuest"/>
+        </StackPanel>
+    </Grid>
+</Window>
